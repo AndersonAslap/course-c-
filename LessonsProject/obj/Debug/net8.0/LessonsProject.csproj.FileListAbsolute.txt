@@ -1,0 +1,15 @@
+/home/anderson/Área de Trabalho/Estudos/c#/course-c-sharpe/LessonsProject/bin/Debug/net8.0/LessonsProject
+/home/anderson/Área de Trabalho/Estudos/c#/course-c-sharpe/LessonsProject/bin/Debug/net8.0/LessonsProject.deps.json
+/home/anderson/Área de Trabalho/Estudos/c#/course-c-sharpe/LessonsProject/bin/Debug/net8.0/LessonsProject.runtimeconfig.json
+/home/anderson/Área de Trabalho/Estudos/c#/course-c-sharpe/LessonsProject/bin/Debug/net8.0/LessonsProject.dll
+/home/anderson/Área de Trabalho/Estudos/c#/course-c-sharpe/LessonsProject/bin/Debug/net8.0/LessonsProject.pdb
+/home/anderson/Área de Trabalho/Estudos/c#/course-c-sharpe/LessonsProject/obj/Debug/net8.0/LessonsProject.GeneratedMSBuildEditorConfig.editorconfig
+/home/anderson/Área de Trabalho/Estudos/c#/course-c-sharpe/LessonsProject/obj/Debug/net8.0/LessonsProject.AssemblyInfoInputs.cache
+/home/anderson/Área de Trabalho/Estudos/c#/course-c-sharpe/LessonsProject/obj/Debug/net8.0/LessonsProject.AssemblyInfo.cs
+/home/anderson/Área de Trabalho/Estudos/c#/course-c-sharpe/LessonsProject/obj/Debug/net8.0/LessonsProject.csproj.CoreCompileInputs.cache
+/home/anderson/Área de Trabalho/Estudos/c#/course-c-sharpe/LessonsProject/obj/Debug/net8.0/LessonsProject.sourcelink.json
+/home/anderson/Área de Trabalho/Estudos/c#/course-c-sharpe/LessonsProject/obj/Debug/net8.0/LessonsProject.dll
+/home/anderson/Área de Trabalho/Estudos/c#/course-c-sharpe/LessonsProject/obj/Debug/net8.0/refint/LessonsProject.dll
+/home/anderson/Área de Trabalho/Estudos/c#/course-c-sharpe/LessonsProject/obj/Debug/net8.0/LessonsProject.pdb
+/home/anderson/Área de Trabalho/Estudos/c#/course-c-sharpe/LessonsProject/obj/Debug/net8.0/LessonsProject.genruntimeconfig.cache
+/home/anderson/Área de Trabalho/Estudos/c#/course-c-sharpe/LessonsProject/obj/Debug/net8.0/ref/LessonsProject.dll
